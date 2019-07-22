@@ -1,5 +1,5 @@
 {
-  "name": "nexus-prisma",
+  "name": "sameoldmadness-nexus-prisma",
   "version": "0.3.7",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",

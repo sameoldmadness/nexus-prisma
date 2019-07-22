@@ -1,5 +1,5 @@
 {
-  "name": "nexus-prisma-generate",
+  "name": "sameoldmadness-nexus-prisma-generate",
   "version": "0.3.7",
   "typings": "dist/index.d.ts",
   "license": "MIT",
